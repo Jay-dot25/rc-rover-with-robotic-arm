@@ -1,0 +1,8 @@
+{
+  "n_episodes": 2000,
+  "final_epsilon": 0.02,
+  "goal_rate_last200": 96.0,
+  "coll_rate_last200": 4.0,
+  "avg_reward_last200": 28.241999999999997,
+  "total_time_s": 3513.6
+}

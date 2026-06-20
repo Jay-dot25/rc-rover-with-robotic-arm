@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+.env
+
+# Node
+node_modules/
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Build files
+dist/
+build/
+
+# Logs
+*.log
+
+# Offline speech model (large binary, fetched by rover_nlp_app/setup.sh)
+rover_nlp_app/vosk-model/
+
+# Editor swap files
+*.swp

@@ -1,0 +1,7 @@
+streamlit>=1.30
+tensorflow>=2.15,<2.17
+numpy>=1.24
+pyserial>=3.5
+vosk>=0.3.45
+pyaudio>=0.2.13
+streamlit-autorefresh>=1.0.1
